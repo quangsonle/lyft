@@ -4,8 +4,6 @@ the solution is run on personal computer for some conveniences, only submission 
 
 this is a testing of drop out based on "https://www.kaggle.com/huanvo/lyft-complete-train-and-prediction-pipeline" 
 
-will be uploaded on github if score is significant enough, otherwise it is a failure
-
 the significant contribution from  the orginal kernel here:
 
 1/ drop out immeidately after the network in resnet50 (injected drop out)
