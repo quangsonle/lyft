@@ -16,4 +16,4 @@ the significant contribution from  the orginal kernel here:
 
 unfortunately, the result is not as well on kaggle. 
 
-However any people get problems with access denied if running on window or explosing gradient while training with the above kernel can refer
+However any people get problems with access denied if running on window (your own Desktop instead of kaggle machine, it is better to test something privately) or explosing gradient while training with the above kernel can refer
